@@ -1,1 +1,1 @@
-# Dedicated to all of my "Friends"
+# Dedicated to all my "Friends"
