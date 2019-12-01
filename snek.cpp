@@ -94,6 +94,7 @@ void Move()
 
         for(i=0; i<30; i++)
 
+            
         {
 
             body[i].x=0;
